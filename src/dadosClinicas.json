@@ -1,0 +1,75 @@
+{
+    "clinicas": [{
+            "id": "1",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        },
+        {
+            "id": "2",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "3",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "4",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "5",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "6",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "7",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "8",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "9",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }, {
+            "id": "10",
+            "nomeMedico": "David Rogério Flori",
+            "especialidade": "Clínica Médica",
+            "nomeClinica": "Mov Clínica",
+            "endereco": "Quadra 03 Bloco A Lote 107/111 (Asa Sul) Brasília-DF",
+            "preco": "70,00"
+        }
+    ]
+}

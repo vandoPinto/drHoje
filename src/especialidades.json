@@ -1,0 +1,985 @@
+{
+    "data": {
+        "especialidades": [{
+                "ds_especialidade": "Alimentação Coletiva ",
+                "id": "1",
+                "formacao_id": "1",
+                "formacao": {
+                    "id": "1"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Nutrição Clínica ",
+                "id": "2",
+                "formacao_id": "1",
+                "formacao": {
+                    "id": "1"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Saúde Coletiva  ",
+                "id": "3",
+                "formacao_id": "1",
+                "formacao": {
+                    "id": "1"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Nutrição em Esportes ",
+                "id": "4",
+                "formacao_id": "1",
+                "formacao": {
+                    "id": "1"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fitoterapia ",
+                "id": "5",
+                "formacao_id": "1",
+                "formacao": {
+                    "id": "1"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Acupuntura",
+                "id": "6",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Alergia e imunologia",
+                "id": "7",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Anestesiologia",
+                "id": "8",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Angiologia",
+                "id": "9",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cardiologia",
+                "id": "10",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia cardiovascular",
+                "id": "11",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia da mão",
+                "id": "12",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia de cabeça e pescoço",
+                "id": "13",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia do aparelho digestivo",
+                "id": "14",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia geral",
+                "id": "15",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia oncológica",
+                "id": "16",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia pediátrica",
+                "id": "17",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia plástica",
+                "id": "18",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia torácica",
+                "id": "19",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Cirurgia vascular",
+                "id": "20",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Clínica médica",
+                "id": "21",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Coloproctologia",
+                "id": "22",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Dermatologia",
+                "id": "23",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Endocrinologia e metabologia",
+                "id": "24",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Endoscopia",
+                "id": "25",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Gastroenterologia",
+                "id": "26",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Genética médica",
+                "id": "27",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Geriatria",
+                "id": "28",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Ginecologia e obstetrícia",
+                "id": "29",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Hematologia e hemoterapia",
+                "id": "30",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Homeopatia",
+                "id": "31",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Infectologia",
+                "id": "32",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Mastologia",
+                "id": "33",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina de emergência",
+                "id": "34",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina de família e comunidade",
+                "id": "35",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina do trabalho",
+                "id": "36",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina de tráfego",
+                "id": "37",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina esportiva",
+                "id": "38",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina física e reabilitação",
+                "id": "39",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina intensiva",
+                "id": "40",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina legal e perícia médica",
+                "id": "41",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina nuclear",
+                "id": "42",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Medicina preventiva e social",
+                "id": "43",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Nefrologia",
+                "id": "44",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Neurocirurgia",
+                "id": "45",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Neurologia",
+                "id": "46",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Nutrologia",
+                "id": "47",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Oftalmologia",
+                "id": "48",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Oncologia clínica",
+                "id": "49",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Ortopedia e traumatologia",
+                "id": "50",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Otorrinolaringologia",
+                "id": "51",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Patologia",
+                "id": "52",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Patologia clínica/medicina laboratorial",
+                "id": "53",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Pediatria",
+                "id": "54",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Pneumologia",
+                "id": "55",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psiquiatria",
+                "id": "56",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Radiologia e diagnóstico por imagem",
+                "id": "57",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Radioterapia",
+                "id": "58",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Reumatologia",
+                "id": "59",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Urologia",
+                "id": "60",
+                "formacao_id": "2",
+                "formacao": {
+                    "id": "2"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia em Acupuntura",
+                "id": "61",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia Aquática",
+                "id": "62",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia Cardiovascular",
+                "id": "63",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia Dermatofuncional",
+                "id": "64",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia Esportiva",
+                "id": "65",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia em Gerontologia",
+                "id": "66",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia do Trabalho",
+                "id": "67",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia Neurofuncional",
+                "id": "68",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia em Oncologia",
+                "id": "69",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia Respiratória",
+                "id": "70",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia Traumato-Ortopédica",
+                "id": "71",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia em Osteopatia",
+                "id": "72",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia em Quiropraxia",
+                "id": "73",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia em Saúde da Mulher",
+                "id": "74",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fisioterapia em Terapia Intensiva",
+                "id": "75",
+                "formacao_id": "3",
+                "formacao": {
+                    "id": "3"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia Escolar/Educacional",
+                "id": "76",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia Organizacional e do Trabalho",
+                "id": "77",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia de Trânsito",
+                "id": "78",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia Jurídica",
+                "id": "79",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia do Esporte",
+                "id": "80",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia Clínica",
+                "id": "81",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia Hospitalar",
+                "id": "82",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicopedagogia",
+                "id": "83",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicomotricidade",
+                "id": "84",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Psicologia Social",
+                "id": "85",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Neuropsicologia",
+                "id": "86",
+                "formacao_id": "4",
+                "formacao": {
+                    "id": "4"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Audiologia",
+                "id": "87",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Linguagem",
+                "id": "88",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Motricidade Orofacial",
+                "id": "89",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Saúde Coletiva",
+                "id": "90",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Voz",
+                "id": "91",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Disfagia",
+                "id": "92",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fonoaudiologia Educacional",
+                "id": "93",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Gerontologia",
+                "id": "94",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fonoaudiologia Neurofuncional",
+                "id": "95",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fonoaudiologia do Trabalho",
+                "id": "96",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Neuropsicologia",
+                "id": "97",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            },
+            {
+                "ds_especialidade": "Fluência",
+                "id": "98",
+                "formacao_id": "5",
+                "formacao": {
+                    "id": "5"
+                },
+                "deleted_at": null,
+                "__typename": "Especialidade"
+            }
+        ]
+    }
+}

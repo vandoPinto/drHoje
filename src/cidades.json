@@ -1,0 +1,18 @@
+{
+    "sigla": "DF",
+    "nome": "Distrito Federal",
+    "cidades": [
+        { "id": "0", "nome": "Todos os Locais" },
+        { "id": "1", "nome": "Águas Claras" },
+        { "id": "2", "nome": "Brasília" },
+        { "id": "3", "nome": "Ceilândia" },
+        { "id": "4", "nome": "Gama" },
+        { "id": "5", "nome": "Guará" },
+        { "id": "6", "nome": "Planaltina" },
+        { "id": "7", "nome": "Plano Piloto" },
+        { "id": "8", "nome": "Recanto das Emas" },
+        { "id": "9", "nome": "Samambaia" },
+        { "id": "10", "nome": "Santa Maria" },
+        { "id": "11", "nome": "Taguatinga" }
+    ]
+}
